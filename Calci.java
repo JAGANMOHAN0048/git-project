@@ -1,5 +1,5 @@
 import java.util.Scanner;
-Interface Calci
+interface Calci
 {
 	public int add(int a, int b);
 	public int sub(int a, int b);
